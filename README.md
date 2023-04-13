@@ -11,7 +11,7 @@
 <a href="https://discord.gg/bautista_nicoletti#6636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bautista_nicoletti#6636" height="30" width="40" /></a>
 </p>
 <br>
-<h3 aling="center">📫 How to reach me **bautistanicoletti@gmail.com**</h3>
+<h3 align="center">📫 How to reach me bautistanicoletti@gmail.com</h3>
 
 
 
