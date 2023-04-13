@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Bautista Nicoletti</h1>
 <h3 align="center">A Creative Developer</h3>
 
