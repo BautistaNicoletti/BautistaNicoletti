@@ -15,7 +15,7 @@
 <br>
 <h3 align="center">👇 Visit my Portfolio Website</h3>
 <br>
-<h3 align="center" href="https://bautistafn.com/">bautistafn.com</h3>
+<a align="center" href="https://bautistafn.com/">bautistafn.com</a>
 
 
 
