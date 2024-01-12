@@ -14,7 +14,6 @@
 <h3 align="center">📫 How to reach me bautistanicoletti@gmail.com</h3>
 <br>
 <h3 align="center">👇 Visit my Portfolio Website</h3>
-<br>
 <h3 align="center">bautistafn.com</h3>
 
 
