@@ -11,10 +11,10 @@
 <a href="https://discord.gg/bautista_nicoletti#6636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bautista_nicoletti#6636" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">📫 How to reach me 👉 <a href="bautistanicoletti@gmail.com">bautistanicoletti@gmail.com</a></h3>
+<h3 align="center">📫 How to reach me 👉 <a href="[bautistanicoletti@gmail.com](https://mail.google.com/mail/u/0/#inbox)">bautistanicoletti@gmail.com</a></h3>
 <br>
 <h3 align="center">👇 Visit my Portfolio Website</h3>
-<h3 align="center"><a href="bautistafn.com">bautistafn.com</a></h3>
+<h3 align="center"><a href="[bautistafn.com](https://bautistafn.com/)">bautistafn.com</a></h3>
 
 
 
