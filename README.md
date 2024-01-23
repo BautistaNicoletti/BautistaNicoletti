@@ -2,14 +2,14 @@
 <h1>Hi, I'm Bautista Franco Nicoletti <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=E6EDF3&random=false&width=500&lines=Creative+Developer;Web+Designer;Freelancer" alt="Typing SVG" /></a>
 <img width=100% src="https://github.com/BautistaNicoletti/BautistaNicoletti/assets/127623248/ad7683b4-154d-46e6-9812-b07cc12f08f6"/><hr>
-<h3>🛠️ Skills</h3>
+<h3>👨‍💻 Skills</h3>
 <p> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-<hr><h3>👨‍💻 Sobre Mi</h3>
+<hr><h3>🙋‍♂️ Sobre Mi</h3>
 <p>- Desarrollador Frontend 🖥️ & Diseñador Web 🎨 <br>
 - Freenlancer y emprendedor entusiasta por la inteligencia artificial 🤖 <br>
 - Formado a través de bootcamps, cursos y tutoriales gratuitos de internet 📚 </p>
 <hr>
-<h3>👨‍💻 About me</h3>
+<h3>🙋‍♂️ About me</h3>
 <p>- Frontend Developer 🖥️ & Web Designer 🎨 <br>
 - Freelancer and entrepreneur enthusiastic about artificial intelligence 🤖 <br>
 - Trained through bootcamps, courses and free internet tutorials 📚 </p> <hr>
