@@ -6,8 +6,8 @@
 <h3>Sobre Mi</h3>
 <p>- Desarrollador Frontend 🖥️ & Diseñador Web 🎨 <br>
 - Freenlancer y emprendedor entusiasta por la inteligencia artificial 🤖 <br>
-- Formado a través de bootcamps, cursos y tutoriales gratuitos de internet 📚 </p><br>
-<hr>
+- Formado a través de bootcamps, cursos y tutoriales gratuitos de internet 📚 </p>
+<hr
 <h3>About me</h3> 
 <p>- Frontend Developer 🖥️ & Web Designer 🎨 <br>
 - Freelancer and entrepreneur enthusiastic about artificial intelligence 🤖 <br>
