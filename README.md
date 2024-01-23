@@ -7,7 +7,7 @@
 <p>- Desarrollador Frontend 🖥️ & Diseñador Web 🎨 <br>
 - Freenlancer y emprendedor entusiasta por la inteligencia artificial 🤖 <br>
 - Formado a través de bootcamps, cursos y tutoriales gratuitos de internet 📚 </p>
-<hr
+<hr>
 <h3>About me</h3> 
 <p>- Frontend Developer 🖥️ & Web Designer 🎨 <br>
 - Freelancer and entrepreneur enthusiastic about artificial intelligence 🤖 <br>
