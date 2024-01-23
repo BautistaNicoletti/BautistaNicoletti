@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
-![banner](https://github.com/BautistaNicoletti/BautistaNicoletti/assets/127623248/67b6a14e-d05d-40c2-bf0d-242710b6a3b1)
+<img width=100% src="https://github.com/BautistaNicoletti/BautistaNicoletti/assets/127623248/ad7683b4-154d-46e6-9812-b07cc12f08f6"/>
+
 <h1>Hi, I'm Bautista Nicoletti 👋</h1>
 <h3>A Creative Developer & Web Designer</h3>
 <h3>Skills:</h3>
