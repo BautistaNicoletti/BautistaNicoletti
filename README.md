@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
-<h1>Hi, I'm Bautista Franco Nicoletti <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h1>Hi, I'm Bautista Franco Nicoletti</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=3000&pause=300&color=E6EDF3&random=false&width=500&lines=Creative+Developer;Web+Designer;Freelancer" alt="Typing SVG" /></a>
 <img width=100% src="https://github.com/BautistaNicoletti/BautistaNicoletti/assets/127623248/fcb5f7fa-9293-4d0f-8dd9-c25148b7a524"/><hr>
 <h3>👨‍💻 Skills</h3>
